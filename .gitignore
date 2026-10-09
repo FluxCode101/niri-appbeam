@@ -1,0 +1,31 @@
+# Build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# Packaging artifacts
+/pkg/
+*.pkg.tar.*
+*.tar.gz
+*.zip
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Misc
+*.orig
+*.rej
+*.log
+.env
+.direnv/
