@@ -1,7 +1,8 @@
 [package]
 name = "niri-appbeam"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
+license = "GPL-3.0-or-later"
 description = "Run-or-raise for the niri Wayland compositor: launch an app, focus it, or jump back"
 readme = "README.md"
 repository = "https://github.com/FluxCode101/niri-appbeam"
